@@ -1,7 +1,5 @@
 ## Hi there, I'm Kristian👋
 
-# About Me
-
 I have recently started learning programming and am keen to further develop my understanding of software development.
 
 I’m currently learning C and C++ at Hive Helsinki.
